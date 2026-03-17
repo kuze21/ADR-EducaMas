@@ -59,3 +59,27 @@ El proceso ADR permite:
   • mantener un historial técnico del proyecto
   • evitar repetir discusiones técnicas
 Los ADR ayudan a alinear equipos y mejorar la gestión de la arquitectura de software.
+
+
+
+
+
+ADR-001 
+Decisión sobre el almacenamiento de videos (cambiar)
+
+Contexto
+-	Problema
+-	Factores relevantes
+-	Alternativas a considerar:
+Opción A: Almacenamiento en la nube con CDN (Red de Entrega de Contenido): Utilizar un servicio de almacenamiento en la nube como AWS S3 o Google Cloud Storage, combinado con una CDN para la entrega eficiente de los videos a los usuarios.
+
+Opción B: Almacenamiento en servidores propios: Mantener los videos en servidores propios de la empresa
+Decisión
+-	Explicación
+-	Pros y contras
+Consecuencias
+-	Impacto
+-	Ventajas
+-	Desventajas
+-	Impactos
+
