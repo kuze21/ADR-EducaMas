@@ -2,7 +2,7 @@ ADR 001: Implementación de Almacenamiento y Entrega de Video mediante AWS Serve
 Estado: Aceptado
 Fecha: 2026-03-22
 Autor:Álvaro Cabezas
-      Roberth Groom
+      Robert Groom
 
 1. Contexto y Problema
 La plataforma "EducaMás" requiere una infraestructura capaz de gestionar altas cantidades de material para clases virtuales con alta cantidad de usuarios simultáneos.
